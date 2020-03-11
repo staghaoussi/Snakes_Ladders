@@ -1,7 +1,7 @@
 # Snakes_Ladders
 To play game download all python files (Die.py, SL_Board.py, SL_Game.py, Player.py) and boardConfig.txt file.
 Once all files are downloaded run SL_Game.py file to commence the game.
-Use the following command to in command prompt to start the game.
+Use the following command in command prompt to start the game.
 
 python SL_Game.py
 
